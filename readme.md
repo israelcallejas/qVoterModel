@@ -15,9 +15,9 @@ class barabasi_albert;
 class voter_model;
 ```
 
-## clustering, path length (watts strogatz)
+## structural properties 
 
-### structural properties
+### clustering, path length (watts strogatz)
 
  <div align="center"><img src="images/WS_LC.png" alt="imagen 1" width="50%"> </div>   
 
