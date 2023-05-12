@@ -43,7 +43,7 @@ class voter_model;
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=CQm6hIXjis8">
-    <img src="https://github.com/israelcallejas/q-voter_model/blob/main/images/1100_1.gif" alt="Click to view demo on YouTube" style="width: 60%; height: auto;">
+    <img src="https://github.com/israelcallejas/voter_model/blob/main/images/1100_1.gif" alt="Click to view demo on YouTube" style="width: 60%; height: auto;">
   </a>
 </div>
 
