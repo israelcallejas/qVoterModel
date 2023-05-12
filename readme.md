@@ -17,7 +17,7 @@ class voter_model;
 
 ## clustering, path length (watts strogatz)
 
-### structure properties  
+### structural properties
 
  <div align="center"><img src="images/WS_LC.png" alt="imagen 1" width="50%"> </div>   
 
