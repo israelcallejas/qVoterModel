@@ -39,7 +39,7 @@ class voter_model;
 |  <div align="center">**(c) Power law, regular network**</div>  |  <div align="center">**(d) Random & small-world network**</div>  |
 | ![imagen 3](images/voter_model_ws_a.png) | ![imagen 4](images/voter_model_ws_c.png)  |
 
-## voter model and network construction
+## voter model & network construction
 
   <a href="https://www.youtube.com/watch?v=CQm6hIXjis8">
     <img src="https://github.com/israelcallejas/voter_model/blob/main/images/1100_1.gif" alt="Click to view demo on YouTube" style="width: 70%; height: auto;">
